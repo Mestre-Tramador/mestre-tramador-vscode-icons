@@ -1,0 +1,5 @@
+# Normalize SVG files
+*.svg text
+
+# Rest of the files
+* text=auto

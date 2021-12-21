@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>Folder</title>
+	<defs>
+		<image  width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAAXNSR0IB2cksfwAAACpQTFRFAAAAIS48IS48IS48IS48IS48IS48IS48IS48IS48IS48IS48IS48IS48Qe+lhgAAAA50Uk5TAH9J/8yZl1fggEDbak1tCj5KAAAAPUlEQVR4nGNgoCkQBAMEn8kYBAwRAizGoaGhYUgCxRZAghMssAoMNtvcvXv3JlhA2BgBRgVgoSuIHsjUBABocTT0lJqq/QAAAABJRU5ErkJggg=="/>
+		<image  width="16" height="16" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAAhlQTFRFAAAAGpHXGZDWGJDWGJDWFY7UE43TEo3TEo3TGpHXGpHXG5LXG5HXGZDWGJDWF4/VFI3TEo3TEY3TEY3TEYzTGJDWGpHWG5LXHZLYG5HXF5DVEo3TEo3TEo3TEo3TGJDWGZDWHJLYGpHXFo/UE43SFI3SH5LULJjWJpXVEYzSF4/WF5DWZ7XjnM7rqNTttdrwwuDyz+f11uv23e74ca3QEIfKEIzSFo/VF5DWHJHVx+P0/////v7/T5a+Dn27DoPFFY7UO5/Z4/H57/X4LIO1Dny7DX6/Eo3TE43TUqna4+703OjvGHKpC3a1DHy+EozReLrgvd7x2uz25vH4zd7otc7cq8jYmLrOh63FirHIrsnZnsDVCGqnCW+tC3OzEIjOEH+/NIW0hrHKydjg+vz89vn7t9DgKn2wCnCuCnCvCnCvDobLDYDEF369s8/gdaG8Im2bWZW6kbrT1ODneaW/E2yiCW2rCW+uCnCvCnCvC4HFDX7BE3y8IHOlCWOZCGWeCGmkCWyqcaXEvdDcVpCzCGagCGuoCnCvCnCvDH3ADHi6DHKyCmypCWunpcXZcqC9EmecCWehCWuoCW+tCnCvDX3ADXm8DHW2C3OzDW2nCGObCWagCWmlCW2rCXCvCnCvDXu8DXi5DHa4DHe4CnKyCnGxCm2rCWqlCWypCW+uCnS0DXq9DXu+DXu9DHi6DHW2CnKyCm6sCWyqaVWjGAAAALN0Uk5TABA/eZSUeT8QAUvN+v/////6zUsBAVjw//////BYAUvw//////////BLEM3////////////NED/6///////6P////////3mU////////lJT//////////////////5R5/////////////3k/+v//////////////+j8Qzf//////////////zRBL8P//////////8EsBWPD///////BYAQFLzfr////6zUsBED95lJR5PxAUVwFNAAAA+0lEQVR4nGNgAAJGJmYWVjZ2DgYI4OTi5uHl4xcQFBIWAfFFxcQlJCT5pASkpWVk5YAC8gqKEhJKfMoqqmrqGpoMDFrafEqSOrp6+gaGRsYmpmYM5hZ8fJZW1mBgY2tnz8DmwM/v6AQRcHZxdWNwl/bw8PSCCHj7+Pox+AcEBgWHhIaFR0RGRcfExjHEJyQmJaeA5FPT0jMysxiyc3Lz8gsKi0KKS0rLyisqGaqqa2rr6hsam5pbWtvK2zsYGDq7unt6y8r7+idMnDR5CtClU6dNn5EZmzlz1uw5c+fNB3lmwcJFi2csWbps+YqVq6D+Xb1m7br1GzZuArEBUl5IDVidu0YAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Normal">
+		<use id="blockbench" href="#img1" x="0" y="0" />
+	</g>
+	<g id="Icons">
+		<use id="blockbench" href="#img2" x="16" y="13" />
+	</g>
+</svg>
