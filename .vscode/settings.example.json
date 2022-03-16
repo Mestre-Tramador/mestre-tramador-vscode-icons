@@ -1,0 +1,21 @@
+{
+    "vsicons.associations.files": [            
+        {
+            "icon": "blockbench",
+            "extensions": ["bbmodel"],
+            "format": "svg"
+        }
+    ],
+    "vsicons.associations.folders": [
+        {
+            "icon": "blockbench",
+            "extensions": [ "bbmodel", "bbmodels" ],
+            "format": "svg"
+        },
+        {
+            "icon": "badge",
+            "extensions": [ "badge", "badges" ],
+            "format": "svg"
+        }
+    ]
+}

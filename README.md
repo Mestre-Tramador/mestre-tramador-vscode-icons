@@ -6,6 +6,8 @@ This is a simple set of `svg` icons to use alongside the [vscode-icons](https://
 
 To use my icons you can follow the already very easy and perfectly explained tutorial of the extensions, which you can find [here](https://github.com/vscode-icons/vscode-icons/wiki/Custom).
 
+Or, if you wish, you can check [this](.vscode/settings.example.json) file for an example with the existing icons.
+
 ## Contribution
 
 I made this a public repository if anyone wants to increase the customization of theirs VS Codes, and my goal is not to promote any kind of direct contribution to the creators of the extension right now, but anyone is free to get to use my icons! 😄

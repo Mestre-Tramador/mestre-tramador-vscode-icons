@@ -1,7 +1,10 @@
 # Folders
-.vscode/
-tests/
+.vscode/*
+tests/*
 
 # Files
 *.png
 *.psd
+
+# Example File
+!.vscode/settings.example.json
