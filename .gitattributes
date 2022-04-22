@@ -1,3 +1,6 @@
+# Set SVG as main language of Repository.
+*.svg linguist-detectable=true
+
 # Normalize SVG files
 *.svg text
 
